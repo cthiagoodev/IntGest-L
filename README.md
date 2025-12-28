@@ -1,6 +1,6 @@
 # IntGest Legislativo 🏛️
 
-![Status](https://img.shields.io/badge/Status-Em_Produção-success?style=for-the-badge) ![Role](https://img.shields.io/badge/Role-Liderança_Técnica_(End--to--End)-blueviolet?style=for-the-badge) ![Tech](https://img.shields.io/badge/Tech-Flutter_|_Dart-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em_Produção-success?style=for-the-badge) ![Tech](https://img.shields.io/badge/Tech-Flutter_|_Dart-blue?style=for-the-badge)
 
 > **Nota:** Este repositório é um **estudo de caso** de um software proprietário desenvolvido por mim na [IntellGest](https://www.linkedin.com/company/intellgest/). Ele serve como demonstração de portfólio técnico e **não contém o código-fonte original**.
 
