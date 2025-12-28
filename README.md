@@ -12,7 +12,7 @@ O **IntGest Legislativo** é uma solução móvel robusta projetada para moderni
 
 O aplicativo atua como um hub central de transparência e operação legislativa, permitindo o acompanhamento em tempo real de sessões plenárias (físicas e virtuais), acesso à legislação completa (Federal, Estadual e Municipal) e detalhamento da produção dos vereadores.
 
-## 👨‍💻 Meu Papel: Liderança End-to-End
+## 👨‍💻 Meu Papel: Desenvolvimento End-to-End
 
 Como Engenheiro Mobile principal do projeto, fui responsável por **todo o ciclo de vida do produto**, desde a concepção da arquitetura inicial até a publicação final nas lojas (Google Play e App Store).
 
